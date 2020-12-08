@@ -1,4 +1,9 @@
 .box {
     display: flex;
     padding: 10px;
+    
+ }
+ 
+ body {
+     background-color: rgb(26, 170, 180);
  }
